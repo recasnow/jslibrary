@@ -1,0 +1,75 @@
+{
+
+  "name": "Sekolah Teknik",
+
+  "short_name": "Sekolah Teknik",
+
+  "start_url": "https://sekolahteknik.com/",
+
+  "display": "standalone",
+
+  "background_color": "#fff",
+
+  "theme_color": "#C51162",
+
+  "description": "Blog Sekolah Tenik tempat berbagi informasi tentang teknologi dan tutorial-tutorial tentang pendidikan khususnya yang berhubungan dengan teknik.",
+
+  "icons": [{
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s48/multimedia.png",
+
+    "sizes": "48x48",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s72/multimedia.png",
+
+    "sizes": "72x72",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s96/multimedia.png",
+
+    "sizes": "96x96",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s144/multimedia.png",
+
+    "sizes": "144x144",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s168/multimedia.png",
+
+    "sizes": "168x168",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s192/multimedia.png",
+
+    "sizes": "192x192",
+
+    "type": "image/png"
+
+  }, {
+
+    "src": "https://1.bp.blogspot.com/-6xmCeJ-zYAA/XryMwX5tSYI/AAAAAAAABE4/TTQapAlyoSUveEz7vIVDu_y7xKkRvQ2qgCPcBGAYYCw/s512/multimedia.png",
+
+    "sizes": "512x512",
+
+    "type": "image/png"
+
+  }]
+
+}
